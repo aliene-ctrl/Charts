@@ -4,7 +4,7 @@
     "license": "MIT",
     "type": "library",
     "require": {
-        "php": ">=7.4",
+        "php": ">=7.3",
         "illuminate/contracts": "^7.14.1",
         "illuminate/http": "^7.14.1",
         "illuminate/console": "^7.14.1",
